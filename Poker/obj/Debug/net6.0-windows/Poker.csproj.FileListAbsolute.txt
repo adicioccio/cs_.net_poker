@@ -1,0 +1,17 @@
+C:\Users\Rig8\Desktop\C# poker\Poker\Poker\bin\Debug\net6.0-windows\Poker.exe
+C:\Users\Rig8\Desktop\C# poker\Poker\Poker\bin\Debug\net6.0-windows\Poker.deps.json
+C:\Users\Rig8\Desktop\C# poker\Poker\Poker\bin\Debug\net6.0-windows\Poker.runtimeconfig.json
+C:\Users\Rig8\Desktop\C# poker\Poker\Poker\bin\Debug\net6.0-windows\Poker.dll
+C:\Users\Rig8\Desktop\C# poker\Poker\Poker\bin\Debug\net6.0-windows\Poker.pdb
+C:\Users\Rig8\Desktop\C# poker\Poker\Poker\obj\Debug\net6.0-windows\Poker.csproj.AssemblyReference.cache
+C:\Users\Rig8\Desktop\C# poker\Poker\Poker\obj\Debug\net6.0-windows\Poker.Form1.resources
+C:\Users\Rig8\Desktop\C# poker\Poker\Poker\obj\Debug\net6.0-windows\Poker.csproj.GenerateResource.cache
+C:\Users\Rig8\Desktop\C# poker\Poker\Poker\obj\Debug\net6.0-windows\Poker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rig8\Desktop\C# poker\Poker\Poker\obj\Debug\net6.0-windows\Poker.AssemblyInfoInputs.cache
+C:\Users\Rig8\Desktop\C# poker\Poker\Poker\obj\Debug\net6.0-windows\Poker.AssemblyInfo.cs
+C:\Users\Rig8\Desktop\C# poker\Poker\Poker\obj\Debug\net6.0-windows\Poker.csproj.CoreCompileInputs.cache
+C:\Users\Rig8\Desktop\C# poker\Poker\Poker\obj\Debug\net6.0-windows\Poker.dll
+C:\Users\Rig8\Desktop\C# poker\Poker\Poker\obj\Debug\net6.0-windows\refint\Poker.dll
+C:\Users\Rig8\Desktop\C# poker\Poker\Poker\obj\Debug\net6.0-windows\Poker.pdb
+C:\Users\Rig8\Desktop\C# poker\Poker\Poker\obj\Debug\net6.0-windows\Poker.genruntimeconfig.cache
+C:\Users\Rig8\Desktop\C# poker\Poker\Poker\obj\Debug\net6.0-windows\ref\Poker.dll
